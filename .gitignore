@@ -1,0 +1,29 @@
+
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# Maven
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!.mvn/wrapper/maven-wrapper.properties
+
+# Gradle
+.gradle/
+build/
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
